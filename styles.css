@@ -27,10 +27,9 @@ nav ul li a {
   font-size: 1.3em;
 }
 
-nav ul li a:hover {
+nav ul li a:hover, .categories li a:hover {
   border-bottom: 0.15em solid rgb(255, 157, 0);
 
-  font-size: 1.3em;
 }
 
 .cart-icon {
